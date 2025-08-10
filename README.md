@@ -1,2 +1,0 @@
-# samplestream
-sample
